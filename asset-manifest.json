@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Aditya_Portfolio/static/css/main.816704f2.css",
-    "main.js": "/Aditya_Portfolio/static/js/main.66d57900.js",
+    "main.css": "/Aditya_Portfolio/static/css/main.c3801a0c.css",
+    "main.js": "/Aditya_Portfolio/static/js/main.0d0e4969.js",
     "static/media/quizo-s.png": "/Aditya_Portfolio/static/media/quizo-s.5a7337211257f555450a.png",
     "static/media/gst-s.png": "/Aditya_Portfolio/static/media/gst-s.a85df18ac1431826144c.png",
     "static/media/movies-s.png": "/Aditya_Portfolio/static/media/movies-s.8e611fa284d7127d41e3.png",
@@ -30,11 +30,11 @@
     "static/media/logo.svg": "/Aditya_Portfolio/static/media/logo.94689764000d103ed4b8bf93c7fd8d97.svg",
     "static/media/hackerrank.svg": "/Aditya_Portfolio/static/media/hackerrank.866106134433bba5505a998c75906cda.svg",
     "index.html": "/Aditya_Portfolio/index.html",
-    "main.816704f2.css.map": "/Aditya_Portfolio/static/css/main.816704f2.css.map",
-    "main.66d57900.js.map": "/Aditya_Portfolio/static/js/main.66d57900.js.map"
+    "main.c3801a0c.css.map": "/Aditya_Portfolio/static/css/main.c3801a0c.css.map",
+    "main.0d0e4969.js.map": "/Aditya_Portfolio/static/js/main.0d0e4969.js.map"
   },
   "entrypoints": [
-    "static/css/main.816704f2.css",
-    "static/js/main.66d57900.js"
+    "static/css/main.c3801a0c.css",
+    "static/js/main.0d0e4969.js"
   ]
 }
