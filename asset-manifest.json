@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Aditya_Portfolio/static/css/main.816704f2.css",
+    "main.js": "/Aditya_Portfolio/static/js/main.66d57900.js",
+    "static/media/quizo-s.png": "/Aditya_Portfolio/static/media/quizo-s.5a7337211257f555450a.png",
+    "static/media/gst-s.png": "/Aditya_Portfolio/static/media/gst-s.a85df18ac1431826144c.png",
+    "static/media/movies-s.png": "/Aditya_Portfolio/static/media/movies-s.8e611fa284d7127d41e3.png",
+    "static/media/bgWhite.png": "/Aditya_Portfolio/static/media/bgWhite.79658cadae50b3b16ee5.png",
+    "static/media/Walkover.png": "/Aditya_Portfolio/static/media/Walkover.5cbd042f7741188c2527.png",
+    "static/media/bulb.jpg": "/Aditya_Portfolio/static/media/bulb.ab67ae637d0828fabef3.jpg",
+    "static/media/adi.png": "/Aditya_Portfolio/static/media/adi.8800756ae7bd45b98331.png",
+    "static/media/socialmate-s.png": "/Aditya_Portfolio/static/media/socialmate-s.585c6f0ac9e46de901b4.png",
+    "static/media/bg.png": "/Aditya_Portfolio/static/media/bg.82ffe44a63a44c580875.png",
+    "static/media/react.png": "/Aditya_Portfolio/static/media/react.35639ed930462bfcd544.png",
+    "static/media/nodejs.png": "/Aditya_Portfolio/static/media/nodejs.007e99f68b718e476aba.png",
+    "static/media/c.png": "/Aditya_Portfolio/static/media/c.24a8f93854ab092f17a7.png",
+    "static/media/dbms.png": "/Aditya_Portfolio/static/media/dbms.5bd5a24907274f8c4ad7.png",
+    "static/media/datastr.png": "/Aditya_Portfolio/static/media/datastr.ca51e33924c5d407b052.png",
+    "static/media/calculator.png": "/Aditya_Portfolio/static/media/calculator.8d4225c097ef53ec8e67.png",
+    "static/media/internet.png": "/Aditya_Portfolio/static/media/internet.cd517f82d1b4cac8d7ea.png",
+    "static/media/sql.png": "/Aditya_Portfolio/static/media/sql.48a66afef5900e8bc474.png",
+    "static/media/rating.png": "/Aditya_Portfolio/static/media/rating.7354d2096ee0f4098986.png",
+    "static/media/star.png": "/Aditya_Portfolio/static/media/star.618d11e122cbca3f8e9e.png",
+    "static/media/html.png": "/Aditya_Portfolio/static/media/html.cfb2ba4a6b1c3de295bc.png",
+    "static/media/down.png": "/Aditya_Portfolio/static/media/down.2c18b3eb8ad52319275a.png",
+    "static/media/css.png": "/Aditya_Portfolio/static/media/css.4a6549b8c2b4cda8bb88.png",
+    "static/media/js.png": "/Aditya_Portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/facebook.png": "/Aditya_Portfolio/static/media/facebook.b293d5363351752caf25.png",
+    "static/media/shake.svg": "/Aditya_Portfolio/static/media/shake.c7165a1f59e2367bf4395199384f606f.svg",
+    "static/media/logo.svg": "/Aditya_Portfolio/static/media/logo.94689764000d103ed4b8bf93c7fd8d97.svg",
+    "static/media/hackerrank.svg": "/Aditya_Portfolio/static/media/hackerrank.866106134433bba5505a998c75906cda.svg",
+    "index.html": "/Aditya_Portfolio/index.html",
+    "main.816704f2.css.map": "/Aditya_Portfolio/static/css/main.816704f2.css.map",
+    "main.66d57900.js.map": "/Aditya_Portfolio/static/js/main.66d57900.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.816704f2.css",
+    "static/js/main.66d57900.js"
+  ]
+}
