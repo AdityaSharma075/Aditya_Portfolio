@@ -1,8 +1,6 @@
 import React from "react";
 import "./Navbar.scss";
-import { images } from "../../constants/index";
-import { GiHamburgerMenu } from "react-icons/gi";
-import { HiX } from "react-icons/hi";
+
 export default function Navbar({ menuOpen, setmenuOpen }) {
   return (
     <div className={"navbar " + (menuOpen && "active")}>

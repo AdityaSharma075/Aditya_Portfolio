@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import React from "react";
 import "./Header.scss";
 import Top from "./Top";
 import Bottom from "./Bottom";

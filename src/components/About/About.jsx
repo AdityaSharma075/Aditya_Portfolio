@@ -1,8 +1,6 @@
 import React from "react";
 import "./About.scss";
-// import { useEffect, useRef } from "react";
-import { images } from "../../constants";
-// import { init } from "ityped";
+
 import Zoom from "react-reveal/Zoom";
 const About = () => {
   return (

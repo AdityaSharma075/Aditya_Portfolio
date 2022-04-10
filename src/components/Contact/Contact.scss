@@ -61,4 +61,16 @@
       }
     }
   }
+  @media screen and (max-width: 900px) {
+    .left {
+      visibility: hidden;
+      flex: 0;
+    }
+    .right {
+      width: 100vw;
+      form {
+        width: 100%;
+      }
+    }
+  }
 }
